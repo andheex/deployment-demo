@@ -94,3 +94,4 @@ Python yang sedang digunakan.
 
 ## Changes
 1. Testing perubahan secara online
+2. Testing perubahan secara offline
