@@ -91,3 +91,6 @@ Python yang sedang digunakan.
 - Folder `.venv/` hanya untuk environment lokal dan tidak perlu dibagikan.
 - Jangan menyimpan password, token, credential, atau file `.env` ke repository.
 - Struktur project ini akan dikembangkan pada modul-modul berikutnya.
+
+## Changes
+1. Testing perubahan secara online
